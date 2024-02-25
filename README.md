@@ -1,4 +1,4 @@
-f# Deployment Process
+# Deploying a ML model as Dockerized API
 ![The project](https://github.com/othmansamih/Deploying-a-ML-model-as-Dockerized-API/blob/main/Images/Othman%20Samih.jpg?raw=true)
 
 ## Testing the app localy
